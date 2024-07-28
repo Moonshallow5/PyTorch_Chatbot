@@ -1,0 +1,17 @@
+{
+
+"words":[
+    {
+
+    "tag": "greeting","pattern":["Hi","Hey",":)"],"responses":["Heyoooo"]
+
+    },
+    {
+        "tag":"goodbye","pattern":["bye","see you later","goodbye"],"responses":["byehefiwef"]
+    }
+
+
+
+
+]
+}
